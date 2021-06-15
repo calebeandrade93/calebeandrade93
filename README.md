@@ -7,7 +7,9 @@
 :point_right: Currently working on a project called 100 Days Of Python.
 
 ## Contac me 
-<i class="devicon-linkedin-plain-wordmark colored">https://www.linkedin.com/in/calebe-andrade/</i>
+<a href="https://www.linkedin.com/in/calebe-andrade/" target="_blank">
+<img align="center" alt="calebe-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css" style="max-width:100%;">
+</a>
 
 
 <!--
