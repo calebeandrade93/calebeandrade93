@@ -3,6 +3,7 @@
 ## I'm Calebe, nice to meet ya !
 
 :point_right: Currently studying System Analisys and Development at Fatec.
+
 :point_right: Currently working on a project called 100 Days Of Python.
 
 ## Contac me 
