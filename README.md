@@ -6,7 +6,7 @@
 
 :point_right: Currently working on a project called 100 Days Of Python. :snake:
 
-## Contac me 
+## Contact me 
 <a href="https://www.linkedin.com/in/calebe-andrade/" target="_blank">
 <img align="center" alt="calebe-linkedin" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;">
 </a>
