@@ -6,6 +6,8 @@
 
 :point_right: Currently working on a project called 100 Days Of Python. :snake:
 
+:point_right: Also I'm doing few litlle projects in JS, HTML and CSS with my team mate :dart:
+
 ## Get in toutch 
 <a href="https://www.linkedin.com/in/calebe-andrade/" target="_blank">
 <img align="center" alt="calebe-linkedin" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;">
