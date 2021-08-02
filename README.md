@@ -14,7 +14,7 @@
 </a>
 
 ## Technologies
-<img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png"> | <img alt="Java" title="Java" width="40px" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"> | <img title="C" alt="C" width="40px" src="https://img.icons8.com/color/96/000000/c-programming.png">
+<img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png">  <img alt="Java" title="Java" width="40px" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png">  <img title="C" alt="C" width="40px" src="https://img.icons8.com/color/96/000000/c-programming.png">
 
 <!--
 **calebeandrade93/calebeandrade93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
