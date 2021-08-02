@@ -12,8 +12,8 @@
 <a href="https://www.linkedin.com/in/calebe-andrade/" target="_blank">
 <img align="center" alt="calebe-linkedin" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;">
 </a>
-<p><br></p>
 
+## Technologies
 <img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png"> | <img alt="Java" title="Java" width="40px" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"> | <img title="C" alt="C" width="40px" src="https://img.icons8.com/color/96/000000/c-programming.png">
 
 <!--
