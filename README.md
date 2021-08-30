@@ -4,7 +4,7 @@
 
 :point_right: I'm currently studying System Analisys and Development at Fatec. :man_student:
 
-:point_right: Also I'm getting in Data Analysis & Python :dart:
+:point_right: Also I'm getting deep in Data Analysis & Python :dart:
 
 :point_right: Fun fact about me: I love music :guitar:, mountain biking :bicyclist: and coffee :coffee:
 
