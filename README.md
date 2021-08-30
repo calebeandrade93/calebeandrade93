@@ -14,7 +14,7 @@
 </a>
 
 ## Technologies
-<img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png"> <img title="C" alt="C" width="40px" src="https://img.icons8.com/color/96/000000/c-programming.png"> <img title="Spreadsheets" alt="Spreadsheets" width="40px" src="https://img.icons8.com/color/48/000000/new-spreadsheet.png"> <img title="Tableau" alt="Tableau" width="40px" src="https://img.icons8.com/color/48/000000/tableau-software.png"> <img title="SQL" alt="SQL" width="40px" src="https://img.icons8.com/color-glass/48/000000/sql.png"> <img title="Excel" alt="Excel" width="40px" src="https://img.icons8.com/color/48/000000/ms-excel.png"> 
+<img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png"> <img title="C" alt="C" width="40px" src="https://img.icons8.com/color/96/000000/c-programming.png"> <img title="Google Spreadsheets" alt="Google Spreadsheets" width="40px" src="https://img.icons8.com/color/48/000000/new-spreadsheet.png"> <img title="Tableau" alt="Tableau" width="40px" src="https://img.icons8.com/color/48/000000/tableau-software.png"> <img title="SQL" alt="SQL" width="40px" src="https://img.icons8.com/color-glass/48/000000/sql.png"> <img title="Excel" alt="Excel" width="40px" src="https://img.icons8.com/color/48/000000/ms-excel.png"> 
 
 <!--
 **calebeandrade93/calebeandrade93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
