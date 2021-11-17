@@ -9,7 +9,7 @@
 :point_right: Fun fact about me: I love music :guitar:, mountain biking :bicyclist: and coffee :coffee:
 
 ## Get in toutch 
-<a href="https://www.linkedin.com/in/calebe-andrade/" target="_blank">
+<a href="https://www.linkedin.com/in/lcma/" target="_blank">
 <img align="center" alt="calebe-linkedin" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;">
 </a>
 
