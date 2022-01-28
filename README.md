@@ -2,7 +2,7 @@
 
 ## I'm Calebe, nice to meet ya ! :rainbow:
 
-:point_right: I'm currently studying System Analisys and Development at Fatec. :man_student:
+<--!:point_right: I'm currently studying System Analisys and Development at Fatec. :man_student: -->
 
 ## Get in toutch 
 <a href="https://www.linkedin.com/in/lcma/" target="_blank">
